@@ -1,7 +1,7 @@
 | Date              |          |
 |:------------------|:---------|
-| TODO              | Assigned |
-| TODO              | Due      |
+| 28 November       | Assigned |
+| 15 December       | Due      |
 | Status            |[![GatorGrader](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml) |
 
 **Reported by `The Mayor` on `TODO`**
@@ -58,13 +58,23 @@ an open-ended task that can be completed individually or in "partnerships"
 
 While there are rules to this task, they are fewer than a traditional 
 assignment, 
-though the work is much larger.
+though the work is  larger.
+
+## Learning Outcomes
+
+In this assignment you will apply everything you learned in the course so far to demonstrate proficiency with the course learning outcomes described in the [course syllabus](https://github.com/cmpsc100-allegheny-college/course_information):
+
+1. Apply Python programming principles to execute and explain computer code that implements interactive, novel solutions to a variety of computable problems.
+2. Release code consistent with industry-standard practices using professional grade IDEs, command line tools, and version control tools.
+3. Analyze and suggest revisions to existing Python language code to improve or add functionality.
+4. Evaluate the practical and ethical implications of writing computer code and discuss the contexts, perceived effects, and impacts exerted on and by computer code as a cultural force or artifact.
+5. Design, describe, and implement original projects incorporating standard practices and Python language principles.
 
 ## Completing `project` content
 
 ### Partnerships
 
-All citizens must engage in a partnership with at least `1` other citizen. These
+All citizens can engage in a partnership with at least `1` other citizen. These
 partnerships can be made without neighborhood membership in mind.
 
 Partnerships (i.e. self-selected groups) cannot be larger than `3` citizens. 
@@ -216,12 +226,11 @@ truly extenuating circumstances exist, these dates cannot be abridged.
 
 |Work due              |Date                  |
 |:---------------------|:---------------------|
-|Proposal              |`TODO`       |
-|Progress Report       |`TODO`       |
-|Project Demonstration |`TODO`       |
-|Final Report          |12:00p, `TODO` |
-|Final Project Code    |12:00p, `TODO` |
-|Final Project Presentation |`TODO`    |
+|Proposal              | 29 November      |
+|Progress Report       | 4 December       |
+|Project Demonstration | 8 December       |
+|Final Report          | 15 December      |
+|Final Project Code    | 15 December      |
 
 #### Proposal
 
@@ -245,7 +254,7 @@ word count (`500 words`).
 As the project develops, the Office of the Mayor expects progress. You will 
 provide a `Progress Report` of no fewer than `500 words` which responds to 
 questions in the `docs/progress.md` file. This will be accompanied by a 
-demonstration 1 week later which should confirm or exceed expectations set by 
+demonstration a few days later which should confirm or exceed expectations set by 
 the writing in this document.
 
 #### Project Demonstration
@@ -286,38 +295,6 @@ function, the project **is not complete**_.
 For nearly every project, the code to implement a given project will exist in
 another repository. It is your job to provide the link to this work in documentation
 below and in the [docs/progress.md](docs/progress.md) file.
-
-#### Final project presentation
-
-During the time allocated to our course final exam, partnerships are expected to 
-present a short (5-10 minute) talk and demonstration of the work completed. This
-presentation has two parts:
-
-* Discussion
-* Demonstration
-
-##### Discussion
-
-Partnerships are required to create a slide deck with a link provided to a PDF
-copy in the table below and link to the repository where project work was completed.
-
-|Link type |Link         |
-|:---------|:------------|
-|Presentation |`TODO`       |
-|Code repository|`TODO`     |
-
-This presentation should cover:
-
-* the value this project adds to the world
-* a non-technical overview of what the project _does_
-  * this might be best supported by a diagram or set of diagrams
-* a summary of challenges and successes experience during completion of the project
-
-##### Demonstration
-
-The above presentation should also contain a demonstration which can be performed
-live or as a recorded video. This demonstration constitutes _part of_ the 5 - 10
-minutes required.
 
 ## Backup Policy Reminder
 
