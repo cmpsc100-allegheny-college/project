@@ -296,6 +296,19 @@ For nearly every project, the code to implement a given project will exist in
 another repository. It is your job to provide the link to this work in documentation
 below and in the [docs/progress.md](docs/progress.md) file.
 
+## Evaluating `project` Content
+
+If you work in a team, one grade will be assigned to all team members unless:
+- violation of code of conduct is reported or observed,
+- inconsistent or unequal amount of work is documented (via commits) or observed,
+- member does not participate during demonstration.
+
+Substantial problems encountered during team-work should be documented through the [Code of Conduct Violation Report](https://forms.gle/fTjAAfAHXBxJJSUz5). 
+
+To receive a `Complete` status on this assignment, 1) the assignment repository on GitHub must have a green check, 2) all writing assignments are complete, 3) code is functioning as expected, 3) correct use of Git Flow practices (branching, Pull Requests, etc)., 4) demonstration is given. 
+
+Please note that `gatorgrade` only checks minimal baseline writing requirements of this assignment. All requirements, including the written code, will be assessed via manual examination and testing of the code. 
+
 ## Backup Policy Reminder
 
 **While we may use this server to store code, you are responsible for using 
