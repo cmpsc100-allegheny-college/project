@@ -118,7 +118,7 @@ or turbines
 
 `cd`ing around only gets us so far. Have you ever imagined what it would look 
 like if we could,
-for example, go straight from `Galbee` to `Arago`? This contemplates things like
+for example, go straight from `Drifa` to `Vantalu`? This contemplates things like
 busses, rail, or even ride sharing. However, that doesn't exist in `term-world` 
 as of yet. Could
 you be the one to bring these services? This might include:
